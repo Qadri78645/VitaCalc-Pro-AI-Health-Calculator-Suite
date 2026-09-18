@@ -1,0 +1,19 @@
+{
+  "name": "VitaCalc Pro — AI Health Calculator Suite",
+  "short_name": "VitaCalc Pro",
+  "description": "34+ clinical-standard health calculators with AI insights, an AI health assistant and a private health dashboard. Free, instant, 100% on-device.",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "categories": ["health", "medical", "fitness", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
